@@ -179,7 +179,7 @@ main {
   display: block;
   width: 100%;
   border-color: transparent;
-  background: var(--clr-pink);
+  background:#359eff;
   margin: 2rem auto 0 auto;
   text-transform: capitalize;
   font-size: 1.2rem;
@@ -188,4 +188,5 @@ main {
   border-radius: var(--radius);
   outline: 1px solid rgba(242, 138, 178, 0.8);
   cursor: pointer;
+  box-shadow: 0 2px 3px 0 rgba(0,0,0,0.2), 0 2px 5px 0 rgba(0,0,0,0.19);
 }
